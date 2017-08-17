@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+I'm not sure I could even consider myself an amateur programmer.
